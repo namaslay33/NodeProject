@@ -19,7 +19,6 @@ router.get('/', function(request, response){
 
         <a href="#">Dalmation</a>
     
-    
     </div>
     `)
 })
