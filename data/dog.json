@@ -1,5 +1,4 @@
-{
-    "Dogs": [
+[
       {
         "Type": "Boxer",
         "Size": "Medium",
@@ -7,7 +6,8 @@
         "Colors": ["Brindle", "White", "Fawn"],
         "Life Span": "10-12 years",
         "Origin": "Germany, Munich",
-        "Info": "Boxers are silly, sweet and mischievous. They clown around with family and friends, are patient and playful with children, but show a deliberate and wary face to strangers, responding with unmatched courage to anything that threatens their loved ones. Those characteristics are why people love them."
+        "Info": "Boxers are silly, sweet and mischievous. They clown around with family and friends, are patient and playful with children, but show a deliberate and wary face to strangers, responding with unmatched courage to anything that threatens their loved ones. Those characteristics are why people love them.",
+        "Dog Image": "../public/images/Boxer.jpg"
       },
       {
         "Type": "Great Dane",
@@ -16,7 +16,8 @@
         "Colors": ["Brindle", "Black", "Fawn", "Harlequin", "Blue", "Mantle"],
         "Life Span": "8–10 years",
         "Origin": "Germany",
-        "Info": "The Great Dane’s size attracts attention and offers instant protection -- no one will guess what a sweetheart he is on the inside. The Great Dane is a real family companion. He wants to share the couch and help you watch TV."
+        "Info": "The Great Dane’s size attracts attention and offers instant protection -- no one will guess what a sweetheart he is on the inside. The Great Dane is a real family companion. He wants to share the couch and help you watch TV.",
+        "Dog Image": "../public/images/Great-Dane.jpg"
       },
       {
         "Type": "Miniature Schnauzer",
@@ -25,7 +26,8 @@
         "Colors": ["Black", "White", "Black & Silver", "Salt & Pepper"],
         "Life Span": "12–15 years",
         "Origin": "Germany",
-        "Info": "Lively and active, the Miniature Schnauzer has a larger than life personality and loves to participate in everything you do. He’ll follow you around the house, alert you to someone at the door – possibly more heartily than you might desire."
+        "Info": "Lively and active, the Miniature Schnauzer has a larger than life personality and loves to participate in everything you do. He’ll follow you around the house, alert you to someone at the door – possibly more heartily than you might desire.",
+        "Dog Image": "../public/images/Miniature-schnauzer.jpg"
       },
       {
         "Type": "Beagle",
@@ -34,7 +36,8 @@
         "Colors": ["Lemon & White", "Tri-color", "Chocolate Tri", "White & Chocolate", "Orange & White", "White & Chestnut", "Red & White"],
         "Life Span": "12–15 years",
         "Origin": "England",
-        "Info": "Beagles are scenthounds, meaning they live to use their nose. They’re a comfortable size to tote around in your car, simple to groom, and their exercise needs are easily met with a long, meandering walk that gives them plenty of time to sniff."
+        "Info": "Beagles are scenthounds, meaning they live to use their nose. Not only is the Beagle an excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and—thanks to its pleading expression—cute. They were bred to hunt in packs, so they enjoy company and are generally easygoing.",
+        "Dog Image": "../public/images/Beagle.jpg"
       },
       {
         "Type": "Dalmation",
@@ -43,7 +46,17 @@
         "Colors": ["White background & black", "White background & liver spots"],
         "Life Span": "10-13 years",
         "Origin": "Croatia",
-        "Info": "The Dalmatian is highly active and intelligent and needs lots of exercise to stay happy. A former circus performer, he’s great at learning tricks and loves to show off his talents."
+        "Info": "The dignified Dalmatian, dogdom's citizen of the world, is famed for his spotted coat and unique job description. During their long history, these \"coach dogs\" have accompanied the horse-drawn rigs of nobles, gypsies, and firefighters. A former circus performer, he’s great at learning tricks and loves to show off his talents.",
+        "Dog Image": "../public/images/Dalmation.jpg"
+      },
+      {
+        "Type": "Australian Shepherd",
+        "Size": "Medium",
+        "Breed Group": "Herding",
+        "Colors": ["Merle", "Red Merle", "Black", "Red tricolor", "Black tricolor", "Tan", "Blue Merle"],
+        "Life Span": "13-15 years",
+        "Origin": "United States",
+        "Info": "The Australian Shepherd, a lean, tough ranch dog, is one of those “only in America” stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+        "Dog Image": "../public/images/Australian-Shepherd.jpg"
       }
-    ]
-  }
+]
